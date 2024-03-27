@@ -1,2 +1,3 @@
 # Data-structure-practice
-This branch is for practice data structure of list.
+This repository is for practice data structure.
+This branch is for practice data structure of list
